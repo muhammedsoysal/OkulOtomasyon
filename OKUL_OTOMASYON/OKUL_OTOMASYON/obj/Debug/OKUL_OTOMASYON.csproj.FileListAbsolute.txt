@@ -1,0 +1,15 @@
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\bin\Debug\OKUL_OTOMASYON.exe.config
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\bin\Debug\OKUL_OTOMASYON.exe
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\bin\Debug\OKUL_OTOMASYON.pdb
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.Form1.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.csproj.GenerateResource.cache
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.exe
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.pdb
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.FrmOgrencıNotlar.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.FrmOgretmen.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.FrmKulup.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.FrmDersler.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.FrmOgrenci.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.FrmSınavNotları.resources
+C:\Users\Muhammed\source\repos\OKUL_OTOMASYON\OKUL_OTOMASYON\obj\Debug\OKUL_OTOMASYON.csprojResolveAssemblyReference.cache
